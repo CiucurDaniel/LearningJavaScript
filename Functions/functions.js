@@ -31,4 +31,4 @@ console.log(compareNames(name, surname)); // ---> true
 // -closures
 // -they can be used as Immediately Invoked Function Expressions (IIFE)
 
-var 
+//var 
